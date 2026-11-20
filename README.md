@@ -103,7 +103,7 @@ to inspect or update the MAC-address whitelist and blacklist stored in `admin_li
 This project was jointly developed by:
 
 - [Daniele Manganiello](https://github.com/manganiello-daniele)
-- [Nome Collaboratore](https://github.com/todisco-paola)
+- [Paola Todisco](https://github.com/todisco-paola)
   
 ## Disclaimer
 
