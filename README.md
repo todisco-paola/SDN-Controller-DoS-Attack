@@ -98,6 +98,15 @@ python3 admin.py
 
 to inspect or update the MAC-address whitelist and blacklist stored in `admin_lists.json`.
 
+## Authors
+
+This project was jointly developed by:
+
+- [Daniele Manganiello](https://github.com/manganiello-daniele)
+- [Nome Collaboratore](https://github.com/todisco-paola)
+  
 ## Disclaimer
 
 This repository contains an academic networking-security project created for educational and experimental purposes. Traffic-generation and mitigation functionality should only be used in networks and laboratory environments where you have authorization.
+
+
